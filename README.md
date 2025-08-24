@@ -59,7 +59,7 @@ I’m always eager to **learn, explore new technologies, and collaborate on inno
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahesh00234h&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahesh00234h&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@ I’m always eager to **learn, explore new technologies, and collaborate on inno
 
 ## 👀 Visitor Count  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mahesh00234h&icon=0&color=0"/>
+  <img src="https://komarev.com/ghpvc/?username=Mahesh00234h&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>
 </p>
 
 ---
@@ -86,5 +86,4 @@ I’m always eager to **learn, explore new technologies, and collaborate on inno
 </p>
 
 ---
-
 
